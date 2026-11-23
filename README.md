@@ -47,15 +47,3 @@ Este sistema resuelve el problema separando responsabilidades mediante principio
 Archivo: diagrama-clases.png
 
 ---
-
-## Instrucciones para Compilar y Ejecutar
-
-### Desde Visual Studio Code
-1. Abrir la carpeta raíz `DP-2026-Grupo1-Calculadora` en VS Code.
-2. Abrir `src/Main.java` y hacer clic en **Run**.
-
-### Desde Terminal
-```bash
-javac -d bin src/modelo/*.java src/patrones/factory/*.java src/patrones/adapter/*.java src/Main.java
-java -cp bin Main
-```
