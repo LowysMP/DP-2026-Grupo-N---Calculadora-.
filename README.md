@@ -6,10 +6,10 @@ Proyecto Final del curso **Diseño de Patrones (100000SI47)** — Universidad Te
 
 | Apellidos y Nombres | Código UTP | Usuario GitHub | Rol |
 | :--- | :--- | :--- | :--- |
-| Mendoza Prado, James Lowys | *(Completar código)* | *(Completar usuario)* | Arquitectura y Modelo SOLID |
-| *(Completar Integrante 2)* | *(Completar código)* | *(Completar usuario)* | Desarrollo Factory Method |
-| *(Completar Integrante 3)* | *(Completar código)* | *(Completar usuario)* | Desarrollo Patrón Adapter |
-| *(Completar Integrante 4)* | *(Completar código)* | *(Completar usuario)* | Documentación UML y Pruebas |
+| Mendoza Prado, James Lowys | U23316325 | LowysMP | Arquitectura y Modelo SOLID |
+| Santiago Lequernaqué Infante | U23323689 | santiagolq | Desarrollo Factory Method |
+| Mogollon Moran Reyner Alonso | U24306796 | reynermogollonmoran117-ops! | Desarrollo Patrón Adapter |
+| Vilela Aguilera Xavier Steve | U24267585 | Vilelaaguilera-beep | Documentación UML y Pruebas |
 
 ---
 
