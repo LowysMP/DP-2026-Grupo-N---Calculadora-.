@@ -1,0 +1,10 @@
+# Carpetas compiladas de Java (requisito de entrega sin bin/)
+bin/
+out/
+target/
+*.class
+*.jar
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
