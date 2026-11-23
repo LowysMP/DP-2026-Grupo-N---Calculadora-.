@@ -44,7 +44,7 @@ Este sistema resuelve el problema separando responsabilidades mediante principio
 
 ## Diagrama de Clases UML
 
-![Diagrama de Clases UML](docs/diagrama-clases.png)
+Archivo: diagrama-clases.png
 
 ---
 
